@@ -1,6 +1,9 @@
-# Howtos
+---
+Authors: HS<https://astriskit.github.io>
+---
 
-General howtos for developer, by me, Hariom Soni <mailto:dcotre.1760@outlook.com>.
+# General howtos for developer.
+
 Following are some general scenarios, while developing/extending the moncon-web-ui -
 
 ## How to change menu for a user?

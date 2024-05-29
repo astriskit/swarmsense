@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Moncon-web-ui'
-copyright = '2018, Hariom Soni'
-author = 'Hariom Soni'
+copyright = '2018, Baseapp Systems And Softwares Private Limited'
+author = 'HS<https://astriskit.github.io>'
 
 # The short X.Y version
 version = ''
