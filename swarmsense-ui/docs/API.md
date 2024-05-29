@@ -378,7 +378,7 @@
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -386,7 +386,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -394,7 +394,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -402,7 +402,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -410,7 +410,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -418,7 +418,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -426,7 +426,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -434,7 +434,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -442,7 +442,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -450,7 +450,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -458,7 +458,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -466,7 +466,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -474,7 +474,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -482,7 +482,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -490,7 +490,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -498,7 +498,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -506,7 +506,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -514,7 +514,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -522,7 +522,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -530,7 +530,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -538,7 +538,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -546,7 +546,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -554,7 +554,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -562,7 +562,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -570,7 +570,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -578,7 +578,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -586,7 +586,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -594,7 +594,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -602,7 +602,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -610,7 +610,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -618,7 +618,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -626,7 +626,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -634,7 +634,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -642,7 +642,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -650,7 +650,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -658,7 +658,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -666,7 +666,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -674,7 +674,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -682,7 +682,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -690,7 +690,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -698,7 +698,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -706,7 +706,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -714,7 +714,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -722,7 +722,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -730,7 +730,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -738,7 +738,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -746,7 +746,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -754,7 +754,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -762,7 +762,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -770,7 +770,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -778,7 +778,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -786,7 +786,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -794,7 +794,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -802,7 +802,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -810,7 +810,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -818,7 +818,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -826,7 +826,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -834,7 +834,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -842,7 +842,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -850,7 +850,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -858,7 +858,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -866,7 +866,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -874,7 +874,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -882,7 +882,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -890,7 +890,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -898,7 +898,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -906,7 +906,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -914,7 +914,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -922,7 +922,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -930,7 +930,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -938,7 +938,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -946,7 +946,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -954,7 +954,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -962,7 +962,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -970,7 +970,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -978,7 +978,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -986,7 +986,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -994,7 +994,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1002,7 +1002,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1010,7 +1010,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1018,7 +1018,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1026,7 +1026,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1034,7 +1034,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1042,7 +1042,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1050,7 +1050,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1058,7 +1058,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1066,7 +1066,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1074,7 +1074,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1082,7 +1082,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1090,7 +1090,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1098,7 +1098,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1106,7 +1106,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1114,7 +1114,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1122,7 +1122,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1130,7 +1130,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1138,7 +1138,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1146,7 +1146,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1154,7 +1154,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1162,7 +1162,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1170,7 +1170,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1178,7 +1178,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1186,7 +1186,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1194,7 +1194,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1202,7 +1202,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1210,7 +1210,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1218,7 +1218,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1226,7 +1226,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1234,7 +1234,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1242,7 +1242,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1250,7 +1250,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1258,7 +1258,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1266,7 +1266,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1274,7 +1274,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1282,7 +1282,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1290,7 +1290,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1333,7 +1333,7 @@ and user meta-data.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1346,7 +1346,7 @@ All the functions/libraries directly
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1367,7 +1367,7 @@ Returns **[Promise][375]** the Promise for a REST response
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1396,7 +1396,7 @@ Returns **[Object][372]** REST response
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1415,7 +1415,7 @@ Returns **[Promise][375]** Resolves in storing login information in the redux st
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1839,7 +1839,7 @@ Returns **[Promise][375]** Promise to resolve into global company assigned to th
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1847,7 +1847,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1885,7 +1885,7 @@ Returns **[string][374]** the string representing specific backend resource such
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1906,7 +1906,7 @@ All the custom side-effects specifically known as [“sagas”][381] are kept in
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1921,7 +1921,7 @@ in the app to be added, create a route and assign it to a react-component, like 
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1944,7 +1944,7 @@ used in the application are kept in here.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1952,7 +1952,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -1969,7 +1969,7 @@ Returns **[Object][372]** the new redux-state value for postLoginInitials key
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2004,7 +2004,7 @@ which are used in main application, are placed.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2206,7 +2206,7 @@ A component to edit the widget of custom/user dashboard.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2240,7 +2240,7 @@ disconnects the mqtt clients of all the sensors.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2260,7 +2260,7 @@ event-logs, etc.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2268,7 +2268,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2754,7 +2754,7 @@ A custom input component to record web-hooks in alert-type create/edit forms
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2909,7 +2909,7 @@ Returns **React.Node**
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2950,7 +2950,7 @@ custom input components FieldsRenderer and ConfigFieldsRenderer.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2958,7 +2958,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2966,7 +2966,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -2986,7 +2986,7 @@ Returns **[Object][372]** A react component representing breadcrumbs
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -3349,7 +3349,7 @@ A react component(drowdown menu) to change the current company
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -3363,7 +3363,7 @@ for understanding in context to admin-on-rest.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -3385,7 +3385,7 @@ A dropdown menu to change the language of ui.
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -3523,7 +3523,7 @@ All the utility based libraries/functions used in other parts of the source-tree
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
@@ -3531,7 +3531,7 @@ License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
 This file is part of SwarmSense IoT Platform
 Copyright (c) 2018, Baseapp Systems And Softwares Private Limited
-Authors: Gopal Lal
+Authors: HS<https://astriskit.github.io/>
 
 License: www.baseapp.com/swarmsense-whitelabel-iot-platoform
 
